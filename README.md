@@ -1,4 +1,4 @@
-# Machine Learning and Deep Learning Algorithms
+# Artificial Intelligence (ML/DL Algorithms & Models)
 
 This repository contains a collection of Jupyter notebooks that implement various machine learning and deep learning algorithms from scratch. The notebooks are designed to be educational and provide clear, well-commented code to help you understand the inner workings of each algorithm.
 
